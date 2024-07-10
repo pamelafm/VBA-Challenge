@@ -1,8 +1,4 @@
 # VBA-Challenge
-Sub stockdatasummary()
-  Dim Current As Worksheet
-  For Each Current In ThisWorkbook.Worksheets
-  Current.Activate
 
     ' Set an initial variable for holding the ticker name
 
